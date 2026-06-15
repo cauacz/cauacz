@@ -1,24 +1,30 @@
 # Olá, sou Cauã Cola Zandonadi! 👋
 
-> Estudante de Ciência da Computação, buscando uma oportunidade de **estágio na área de dados**. Sou um aspirante a **Cientista de Dados** focado em transformar informações brutas em decisões estratégicas.
+> Cursando Ciência da Computação na Universidade de Vila Velha, com foco especial em **Desenvolvimento de Software, Web** ou **Mobile**.
 
 ---
 
-## 📊 Minha Data Stack Atual
-*Foco principal em análise e visualização de dados.*
+## 💻 Minha Stack de Desenvolvimento
+[cite_start]*Linguagens, frameworks e ferramentas que utilizo no dia a dia.* [cite: 12, 13, 14, 16, 17]
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logicColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
-## 🎓 Certificações Recentes (2025)
-- **Power BI & Excel para Análise de Dados** (Alura)
-- **Python para Data Science** (Alura)
-- **Imersão Jornada Python** (Hashtag Treinamentos)
-- **Agentes de IA com Google** (Alura)
+## 🎓 Certificações Recentes
+- **Versionamento de Código com Git e GitHub** – DIO (2026)
+- **Formação: Aprenda a programar em Java com Orientação a Objetos** – Alura (2025)
+- **IT Essentials** – Cisco Networking Academy (2024)
+- *CCNA: Introdução às Redes* – Cisco (Em andamento)
+- *AWS Academy Cloud Foundations* – AWS (Em andamento)
 
 ---
 
@@ -30,13 +36,18 @@
 ---
 
 ## 🚀 Projetos em Destaque
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cauacz&repo=App_Imersao_Python&theme=tokyonight)](https://github.com/cauacz/App_Imersao_Python)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cauacz&repo=Sistema_de_Musicas&theme=tokyonight)](https://github.com/cauacz/Sistema_de_Musicas)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cauacz&repo=Sistema_de_Streaming&theme=tokyonight)](https://github.com/cauacz/Sistema_de_Streaming)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=cauacz&repo=Calculadora_App&theme=tokyonight)](https://github.com/cauacz/Calculadora_App)
 
 ---
 
 ## 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-cola-zandonadi-b33b4b28a/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauacolazandonadi@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/caua_05./)
+
+```
